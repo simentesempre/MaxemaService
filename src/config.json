@@ -1,0 +1,11 @@
+{
+    "ENDPOINT": {
+        "STAGE_ENDPOINT": "http://devel.maxema.upprovider.it/games/event/",
+        "PROD_ENDPOINT": "http://www.maxema.com/games/event/"
+    },
+    "USER_DATA": {
+        "USER_EMAIL": "mxmGameUserEmail",
+        "USER_NAME": "mxmGameUserName",
+        "USER_LANG": "mxmGameUserLang"
+    }
+}
